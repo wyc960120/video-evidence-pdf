@@ -92,4 +92,4 @@ bash "$SKILL/run.sh" --self-test
 
 ## License
 
-未指定，按需使用。
+MIT — 见 [LICENSE](LICENSE)。
